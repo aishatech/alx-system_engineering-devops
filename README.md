@@ -1,1 +1,1 @@
-pwd
+shel i/o redirection
