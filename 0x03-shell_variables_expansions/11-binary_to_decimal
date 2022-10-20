@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x\n" $DECIMAL
+bconvert.sh -i 2 -o 10 x
